@@ -1,6 +1,11 @@
 # Blog-Website
 A blog website to be made with MERN stack.
 
+
+
+
+Here's basic building blocks/components of this website . 
+
 # Header:
 
 Include the website's name/logo.
